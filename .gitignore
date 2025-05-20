@@ -1,3 +1,3 @@
-/res_attention/best_model_attention.pt
-/res_vennila/best_model_vanilla.pt
-/s1_gru/best_model.pt
+/res_attention_predictions/best_model_attention.pt
+/res_vannila_predictions/best_model_vanilla.pt
+/vocab/best_model.pt
