@@ -1,4 +1,4 @@
-# Assignment 3: Seq2Seq Transliteration with and without Attention
+# Seq2Seq Transliteration with and without Attention
 
 **Name:** Sai Mani Kumar Devathi
 **Roll No:** DA24M016
